@@ -1,0 +1,6 @@
+ django>=4.2,<5.0
+ djangorestframework
+ requests
+ pyyaml
+ drf-yasg
+ django-cors-headers
